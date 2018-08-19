@@ -64,6 +64,8 @@ theme_settings:
   disqus_shortname: "https-akhan4u-github-io"
   katex: true # Enable if using math markup
   
+  #404 Image
+  err-404-img: "/img/labtocat.png" 
   special_page:
     search: 
       icon: "search" # Assuming page link and icon are the same
