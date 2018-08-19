@@ -18,7 +18,7 @@ theme_settings:
      <p>I love getting lost in developing web, travelling new places and listening lot of Music</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-    <i class="fa fa-copyright"></i>2018. Crafted with <i class="fa fa-heart icon-cog fa-1x" style="color:red"></i> by Amaan 
+    <i class="fa fa-copyright fa-fw"></i>2018 Crafted with <i class="fa fa-heart icon-cog fa-1x" style="color:red"></i> by Amaan 
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -33,7 +33,7 @@ theme_settings:
   linkedin: https://linkedin.com/in/amaan-khan-linux-ninja # Full URL
   google_plus: 
   instagram: 
-  keybase:
+  keybase: "godfatherisone"
   pinterest:
   reddit:
   soundcloud:
