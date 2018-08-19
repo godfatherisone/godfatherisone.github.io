@@ -3,6 +3,77 @@
     padding: 0;
     list-style: none;
 }
+
+
+// Contact page Google Maps
+
+.mapWrapper {
+  @media (max-width: 767px) {
+    display: none !important;
+  }
+}
+
+// Set a size for our map container, the Google Map will take up 100% of this container
+#map-canvas {
+  width: 100%;
+  height: 350px;
+}
+
+ figcaption {
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 300;
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 0;
+    color: rgba(0,0,0,.6);
+    text-align: center;
+    outline: 0;
+    -moz-font-feature-settings: "liga" on,"lnum" on;
+    -webkit-font-feature-settings: "liga" on,"lnum" on;
+    font-feature-settings: "liga" on,"lnum" on;
+
+    @media (max-width: 991px) {
+      padding-right: 30px;
+      padding-left: 30px;
+      box-sizing: border-box;
+    }
+  }
+
+
+
+
+
+.pageHeader-introDivider {
+  max-width: 100px;
+  margin: 15px auto;
+  border: 0;
+  border-top: 4px solid #fff;
+}
+
+
+.pgp-key {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+  font-size: 65%;
+  text-align: center;
+}
+
+.pgp-key a {
+  color: rgba(128, 128, 128, 0.7);
+  background-image: none !important;
+}
+
+.pgp-key a:hover, .pgp-key a:focus {
+  color: rgba(0, 0, 0, 0.6);
+}
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,

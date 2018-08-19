@@ -2,7 +2,7 @@
 baseurl: ""
 url: "https://godfatherisone.github.io"
 title: Amaan Khan # site's title
-description: "I love getting lost in developing web, travelling new places and listening a lot of Music" # used by search engines
+description: "I love getting lost in developing web, travelling new places and listening lot of Music" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -15,32 +15,32 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>I love getting lost in developing web, travelling new places and listening a lot of Music</p>
+     <p>I love getting lost in developing web, travelling new places and listening lot of Music</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     <i class="fa fa-copyright"></i>2018. Crafted with <i class="fa fa-heart icon-cog fa-1x" style="color:red"></i> by Amaan 
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "amaan.ngp@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "KHAN_AMAAN4U"
   flickr:
   gitlab:
-  github: "sylhare"
-  google_plus:
-  instagram:
-  keybase: godfatherisone
+  github: "akhan4u"
   linkedin: https://linkedin.com/in/amaan-khan-linux-ninja # Full URL
+  google_plus: "+AmaanKhangoformore"
+  instagram: "KHAN_AMAAN4U"
+  keybase: godfatherisone
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "Amaankhan4you" # "twitter username"
   vimeo:
   wordpress:
   youtube:
@@ -50,16 +50,17 @@ theme_settings:
     facebook: true
     twitter: true
     google_plus: true
-    tumblr:
+    tumblr: true
     pinterest:
-    pocket:
+    pocket: true
     reddit: true
-    linkedin:
+    linkedin: true
     wordpress:
     email: true
 
   # Scripts / Features 
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-124046744-1" # Tracking ID, e.g. "UA-000000-01"
+  google_api_key: "AIzaSyAocf1fG1VxiiiYrmKF-VrON9i-TQe6Ha8"
   disqus_shortname: "https-akhan4u-github-io"
   katex: true # Enable if using math markup
   
