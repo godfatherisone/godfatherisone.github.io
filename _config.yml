@@ -22,7 +22,7 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: "amaan.ngp@gmail.com" # Full email address, e.g. "sam@example.com"
+  email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
@@ -31,9 +31,9 @@ theme_settings:
   gitlab:
   github: "akhan4u"
   linkedin: https://linkedin.com/in/amaan-khan-linux-ninja # Full URL
-  google_plus: "+AmaanKhangoformore"
-  instagram: "KHAN_AMAAN4U"
-  keybase: godfatherisone
+  google_plus: 
+  instagram: 
+  keybase:
   pinterest:
   reddit:
   soundcloud:
