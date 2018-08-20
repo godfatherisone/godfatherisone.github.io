@@ -57,6 +57,10 @@ theme_settings:
     linkedin: true
     wordpress:
     email: true
+  
+  # Author details
+  author_blurb_image: "/img/author.png"
+  author_blurb: "Amaan Khan is an awesome person. He lives in Nagpur and works on multi dimensional projects. He usually spends his weekend in learning new stuffs, Reading, Cycling and Listening Music."
 
   # Scripts / Features 
   google_analytics: "UA-124046744-1" # Tracking ID, e.g. "UA-000000-01"
@@ -66,6 +70,7 @@ theme_settings:
   
   #404 Image
   err-404-img: "/img/labtocat.png" 
+
   special_page:
     search: 
       icon: "search" # Assuming page link and icon are the same

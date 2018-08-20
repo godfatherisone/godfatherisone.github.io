@@ -3,8 +3,6 @@
     padding: 0;
     list-style: none;
 }
-
-
 // Contact page Google Maps
 
 .mapWrapper {
@@ -348,4 +346,65 @@
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 100px 20px 20px;
     }
+}
+
+
+// About and contact page social links
+
+.social-links {
+  padding-left: 0 !important;
+  margin-bottom: 10px;
+  margin-left: -10px;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 66%;
+  text-align: center;
+  list-style: none;
+
+  > li {
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  a {
+    display: block;
+    color: rgba(0,0,0,.7);
+    background-image: none !important;
+
+    &:hover,
+    &:focus {
+      color: rgba(0,0,0,.8);
+    }
+
+    .svg-icon {
+      font-size: 3.33em;
+    }
+  }
+}
+
+
+
+//
+// SVG icons better alignment
+// (https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4)
+//
+
+.svg-icon {
+  position: relative;
+  display: inline-flex;
+  align-self: center;
+  width: 1em;
+  height: 1em;
+  line-height: 1;
+  fill: currentColor;
+}
+
+.svg-icon svg {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon.svg-baseline svg {
+  position: absolute;
+  bottom: -.125em;
 }
