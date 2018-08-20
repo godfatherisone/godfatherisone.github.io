@@ -15,8 +15,8 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>I love getting lost in developing web, travelling new places and listening lot of Music</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>I love getting lost in developing web,<br> travelling new places and listening lot of Music</p>
+  header_text_feature_image: assets/img/pexels/desk-top.jpeg
   footer_text: >
     <i class="fa fa-copyright fa-fw"></i>2018 Crafted with <i class="fa fa-heart icon-cog fa-1x" style="color:red"></i> by Amaan 
 
